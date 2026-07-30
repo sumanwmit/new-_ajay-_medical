@@ -1,0 +1,6 @@
+{
+  "name": "New Ajay Medical Hall",
+  "description": "Your Trusted Medical Store for Genuine Medicines & Healthcare Needs in Mallachak More, Jehanabad, Bihar 804408",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
