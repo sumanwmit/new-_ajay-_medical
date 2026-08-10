@@ -31,7 +31,7 @@ export const Contact: React.FC = () => {
       <SEO
         title="Contact Us & Store Location | New Ajay Medical Hall, Jehanabad"
         description="Contact New Ajay Medical Hall in Mallachak More, Jehanabad, Bihar 804408. Call +91 9939467567 or WhatsApp us for instant medicine orders, working hours, and map directions."
-        canonicalUrl="https://newajaymedicalhall.com/contact"
+        canonicalUrl="https://new-ajay-medical.vercel.app/contact"
       />
 
       {/* Header Banner */}

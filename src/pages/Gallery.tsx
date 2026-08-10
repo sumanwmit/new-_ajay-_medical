@@ -33,7 +33,7 @@ export const Gallery: React.FC = () => {
       <SEO
         title="Store Gallery & Infrastructure | New Ajay Medical Hall, Jehanabad"
         description="Take a visual tour of New Ajay Medical Hall in Mallachak More, Jehanabad. View photos of our storefront, organized medicine shelves, cold-chain refrigeration, and diagnostic equipment counters."
-        canonicalUrl="https://newajaymedicalhall.com/gallery"
+        canonicalUrl="https://new-ajay-medical.vercel.app/gallery"
       />
 
       {/* Gallery Header */}

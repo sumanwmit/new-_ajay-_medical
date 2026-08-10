@@ -13,7 +13,7 @@ export const SEO: React.FC<SEOProps> = ({
   title,
   description,
   keywords = "New Ajay Medical Hall, Pharmacy in Jehanabad, Medical Store Mallachak More, Genuine Medicines Jehanabad, Buy Medicine Bihar, WhatsApp Medicine Order Jehanabad, Chemist Mallachak",
-  canonicalUrl = "https://newajaymedicalhall.com",
+  canonicalUrl = "https://new-ajay-medical.vercel.app",
   ogImage = "https://images.unsplash.com/photo-1586015555751-63c233145d55?q=80&w=1200&auto=format&fit=crop",
   schema
 }) => {
@@ -99,8 +99,8 @@ export const SEO: React.FC<SEOProps> = ({
       "@type": "Pharmacy",
       "name": "New Ajay Medical Hall",
       "image": ogImage,
-      "@id": "https://newajaymedicalhall.com/#pharmacy",
-      "url": "https://newajaymedicalhall.com",
+      "@id": "https://new-ajay-medical.vercel.app/#pharmacy",
+      "url": "https://new-ajay-medical.vercel.app",
       "telephone": "+919939467567",
       "priceRange": "₹",
       "address": {

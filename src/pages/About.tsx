@@ -31,7 +31,7 @@ export const About: React.FC = () => {
       <SEO
         title="About Us | New Ajay Medical Hall, Mallachak More, Jehanabad"
         description="Learn about New Ajay Medical Hall's business story, mission, certified pharmacists, cold-chain infrastructure, and commitment to providing genuine medicines in Jehanabad, Bihar."
-        canonicalUrl="https://newajaymedicalhall.com/about"
+        canonicalUrl="https://new-ajay-medical.vercel.app/about"
       />
 
       {/* Header Banner */}

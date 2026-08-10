@@ -20,7 +20,7 @@ export const Services: React.FC<ServicesProps> = ({ onOpenOrderModal }) => {
       <SEO
         title="Pharmacy Services & Medicine Categories | New Ajay Medical Hall, Jehanabad"
         description="Comprehensive healthcare offerings at New Ajay Medical Hall: Prescription drugs, OTC remedies, health monitoring devices, surgical equipment, baby care, and home nursing supplies in Jehanabad."
-        canonicalUrl="https://newajaymedicalhall.com/services"
+        canonicalUrl="https://new-ajay-medical.vercel.app/services"
       />
 
       {/* Services Header */}

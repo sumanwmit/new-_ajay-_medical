@@ -39,7 +39,7 @@ export const Home: React.FC<HomeProps> = ({ onOpenOrderModal }) => {
       <SEO
         title="New Ajay Medical Hall | Trusted Pharmacy in Jehanabad, Bihar 804408"
         description="Providing genuine medicines, healthcare products, surgical supplies, baby care, personal care and daily medical essentials at affordable prices in Mallachak More, Jehanabad."
-        canonicalUrl="https://newajaymedicalhall.com"
+        canonicalUrl="https://new-ajay-medical.vercel.app"
       />
 
       {/* ================= HERO & SPLIT FEATURE VIEW ================= */}
