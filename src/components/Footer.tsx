@@ -236,15 +236,7 @@ export default function Footer() {
             <span>•</span>
             <Link to="/contact" className="hover:text-emerald-400">Terms of Use</Link>
             <span>•</span>
-            <a 
-              href="https://main.webmakerit.com" 
-              target="_blank" 
-              rel="noopener noreferrer"
-              className="inline-flex items-center gap-1 font-semibold text-emerald-400 hover:text-emerald-300 transition-colors"
-            >
-              <span>Developed by WMIT</span>
-              <ExternalLink className="w-3 h-3" />
-            </a>
+            <a href="#" className="wmit-popup-trigger hover:text-white underline transition-colors" target="_blank" rel="noopener noreferrer">Developed by WMIT</a>
           </div>
         </div>
 
